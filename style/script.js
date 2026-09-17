@@ -4,7 +4,7 @@ let giftInterval = null;
 let isMessaging = false;
 let messageInterval = null;
 let currentImage = 1;
-const totalImage = 35;
+const totalImage = 20;
 let messages = [
         "8/3 vui vẻ nhé",
         "Đỗ NV1! Đỗ NV1! Đỗ NV1! ",
